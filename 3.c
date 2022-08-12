@@ -26,7 +26,7 @@ int main() {
     printf("Aggregate Mark is: %f\n", Aggregate_Mark);
 
     Percentage_Mark= Aggregate_Mark/5;
-    printf("Average Mark is: %f", Percentage_Mark);
+    printf("Percentage Mark is: %f", Percentage_Mark);
 
 
 
