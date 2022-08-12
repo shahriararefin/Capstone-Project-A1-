@@ -17,15 +17,6 @@ int main(){
 
     printf("Reverse number is : %d\n", rev_n);
 
-    if(original_num==rev_n){
-        printf("Equal to reverse number");
-    }
-        else
-         {
-        printf("Not equal");
-        }
-    
-
     return 0;
     
 }

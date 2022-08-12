@@ -1,4 +1,4 @@
-// Id:221-35-1018
+
 
 #include<stdio.h>
 
